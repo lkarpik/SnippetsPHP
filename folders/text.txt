@@ -1,0 +1,2 @@
+echo ja echo ty Nowy text.
+ Nowy text.
